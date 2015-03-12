@@ -8,3 +8,10 @@ A simple node cart service
 - Empty cart
 - Retrieve cart items/quote
 - Calculate totals
+
+# Usage
+
+    var NodeCart = require('nodecart');
+    var nodeCart = new NodeCart({
+            port: 5678
+        });
