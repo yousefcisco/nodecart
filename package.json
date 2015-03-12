@@ -1,0 +1,23 @@
+{
+  "name": "nodecart",
+  "version": "0.0.1",
+  "description": "A simple node cart service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yousefcisco/nodecart.git"
+  },
+  "keywords": [
+    "node",
+    "cart"
+  ],
+  "author": "Yousef Cisco <yousefcisco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yousefcisco/nodecart/issues"
+  },
+  "homepage": "https://github.com/yousefcisco/nodecart"
+}
