@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yousefcisco/nodecart/issues"
   },
-  "homepage": "https://github.com/yousefcisco/nodecart"
+  "homepage": "https://github.com/yousefcisco/nodecart",
+  "dependencies": {
+    "lodash": "^3.5.0"
+  }
 }
