@@ -1,6 +1,8 @@
 # nodecart
 A simple node cart service
 
+This is still in early days of development so the API is constantly changing.
+
 # Features
 - Add item to cart
 - Update item in cart
